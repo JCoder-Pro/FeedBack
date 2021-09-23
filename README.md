@@ -12,7 +12,7 @@ No. This repository is for collecting feedback regarding the JCoder system itsel
 
 ### 2. "I fail to login after I changed my password. Must I post my account information here to provide diagnostic information?"
 
-No, you don't need to. For problems concerning any specific account, we have created a private feedback form to protect your privacy. Please refer to <https://docs.qq.com/form/page/DQWNJRVlEWFZiS2VI>.
+No, you don't need to. For problems concerning any specific account, we have created a private feedback form to protect your privacy. Please refer to <https://docs.qq.com/form/page/DQ1VEZnpOdXdjZ3Zk?_w_tencentdocx_form=1>.
 
 The private feedback approach is also more suitable for reporting security bugs.
 
