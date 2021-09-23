@@ -22,9 +22,9 @@ You are suggested to comment the existing issue that are open.
 
 ## How to feedback?
 
-0. [Create a GitHub account](https://github.com/join?source_repo=ArchOJ%2Ffeedback) if you haven't done it before
-1. [Sign in to GitHub](https://github.com/login?return_to=%2FArchOJ%2Ffeedback)
-2. Navigate to the [issues](https://github.com/ArchOJ/feedback/issues) page to [create a new issue](https://github.com/ArchOJ/feedback/issues/new/choose) in this repository
+0. Create a GitHub account if you haven't done it before
+1. Sign in to GitHub
+2. Navigate to the [issues](https://github.com/JCoder-Pro/FeedBack/issues) page to [create a new issue](https://github.com/JCoder-Pro/FeedBack/issues/new/choose) in this repository
 3. Choose a category (_Bug report_ or _Feature request_) for your feedback and click the **"Get started"** button
 4. Follow the instructions in the issue template to fill in the form
 5. Click the **"Submit new issue"** button
