@@ -20,6 +20,12 @@ The private feedback approach is also more suitable for reporting security bugs.
 
 You are suggested to comment the existing issue that are open.
 
+### 4. "I was noticed that the verification email has been sent successfully while changing password, but I cannot find the mail in my box. What's wrong?"
+
+The email system of the OJ is driven by our personal email account since SUSTech hasn't provided permission for us to create a public email account. Thus, if there are so many password changing requests during a short period, our email account will be banned to send email for some hours due to be judged as AD publisher or some other reasons.
+
+So, if you are not hurry in changing your password, you might be able to try again after hours. Otherwise please fill in the feedback sheet shown under the Q2 before. Thank you for your cooperation.
+
 ## How to feedback?
 
 0. Create a GitHub account if you haven't done it before
