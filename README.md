@@ -36,3 +36,7 @@ We will try our best to respond timely.
 [JCoder](https://oj.sustech.xyz) is an online judge system designed with educational purpose in mind, aiming to ease learning and teaching computer programming by offering helpful functionalities, intuitive user interface, and friendly user experience. Thus, your feeling and feedback really matter!
 
 We hope to run JCoder as an open-source project in the future. Don't hesitate to join us to improve JCoder together by firstly leaving your feedback!
+
+## Test for PR Merging
+
+Something A
