@@ -1,6 +1,6 @@
 # Feedback to help us be better
 
-Welcome to the [JCoder](https://oj.sustech.xyz) feedback repository, a place connecting you with the JCoder developers.
+Welcome to the [JCoder](https://oj.cse.sustech.edu.cn) feedback repository, a place connecting you with the JCoder developers.
 
 You are welcome to report bugs you encountered when using JCoder, or to share your comments, suggestions, or ideas about JCoder here.
 
@@ -39,6 +39,6 @@ We will try our best to respond timely.
 
 ## About JCoder
 
-[JCoder](https://oj.sustech.xyz) is an online judge system designed with educational purpose in mind, aiming to ease learning and teaching computer programming by offering helpful functionalities, intuitive user interface, and friendly user experience. Thus, your feeling and feedback really matter!
+[JCoder](https://oj.cse.sustech.edu.cn) is an online judge system designed with educational purpose in mind, aiming to ease learning and teaching computer programming by offering helpful functionalities, intuitive user interface, and friendly user experience. Thus, your feeling and feedback really matter!
 
 We hope to run JCoder as an open-source project in the future. Don't hesitate to join us to improve JCoder together by firstly leaving your feedback!
